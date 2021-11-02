@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b30c2f69.chunk.css",
+    "main.js": "/static/js/main.cb514142.chunk.js",
+    "main.js.map": "/static/js/main.cb514142.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.25c23c49.js",
+    "runtime-main.js.map": "/static/js/runtime-main.25c23c49.js.map",
+    "static/css/2.ee779822.chunk.css": "/static/css/2.ee779822.chunk.css",
+    "static/js/2.be738050.chunk.js": "/static/js/2.be738050.chunk.js",
+    "static/js/2.be738050.chunk.js.map": "/static/js/2.be738050.chunk.js.map",
+    "static/js/3.ce3f64c6.chunk.js": "/static/js/3.ce3f64c6.chunk.js",
+    "static/js/3.ce3f64c6.chunk.js.map": "/static/js/3.ce3f64c6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ee779822.chunk.css.map": "/static/css/2.ee779822.chunk.css.map",
+    "static/css/main.b30c2f69.chunk.css.map": "/static/css/main.b30c2f69.chunk.css.map",
+    "static/js/2.be738050.chunk.js.LICENSE.txt": "/static/js/2.be738050.chunk.js.LICENSE.txt",
+    "static/media/bg_plataforma-1.e44c32c3.png": "/static/media/bg_plataforma-1.e44c32c3.png",
+    "static/media/bg_plataforma-hboMax.18f568f0.png": "/static/media/bg_plataforma-hboMax.18f568f0.png",
+    "static/media/harryPotter_background.27b6462e.png": "/static/media/harryPotter_background.27b6462e.png",
+    "static/media/home-background.67181c84.png": "/static/media/home-background.67181c84.png",
+    "static/media/menu.cdc96182.svg": "/static/media/menu.cdc96182.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25c23c49.js",
+    "static/css/2.ee779822.chunk.css",
+    "static/js/2.be738050.chunk.js",
+    "static/css/main.b30c2f69.chunk.css",
+    "static/js/main.cb514142.chunk.js"
+  ]
+}
